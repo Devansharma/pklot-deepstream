@@ -7,7 +7,7 @@ Finding a parking space in densely populated areas or big parking places is a hu
 - This app is built on Nvidia DeepStream SDK, which provides a complete streaming analytics toolkit for object detection.
 - Ability to integrate it with the CCTV present on-site and connect to cloud to create a end to end IOT/AI-ML application.
 
-![Jetson](https://i.imgur.com/KlJF1Aj.png)
+![Jetson](https://i.imgur.com/8fRnlOj.png)
 
 ## Tech Stack
 
@@ -38,10 +38,10 @@ This application can be run on any NVIDIA powered such as DGPUs, Jetson Nano, Xa
     uuid-dev
     ```
 2. DeepStream installation on Jetson Device
-Download the deb file under - DeepStream 5.0.1 for Jetson from [here](https://developer.nvidia.com/deepstream-getting-started)
+Download the deb file under - DeepStream 5.1 for Jetson from [here](https://developer.nvidia.com/deepstream-getting-started)
 
     ```sh
-    sudo apt-get install ./deepstream-5.0_5.0.1-1_arm64.deb
+    sudo apt-get install ./deepstream-5.1_5.1.0-1_amd64.deb
     ```
 
 ### Starting the application
